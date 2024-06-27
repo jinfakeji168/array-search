@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "phprookiehbb/pagination": "^1.1"
+        "jinfakeji168/pagination": "^1.1"
     },
     "autoload": {
         "psr-4": {
